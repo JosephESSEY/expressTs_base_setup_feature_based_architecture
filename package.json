@@ -1,7 +1,7 @@
 {
-  "name": "ahoe",
+  "name": "based_back",
   "version": "1.0.0",
-  "description": "Nom du Projet : Ahoé Nature : Plateforme web et mobile de mise en relation pour la location de logements au Togo (courte et longue durée) \r Objectif Principal : Digitaliser et sécuriser le marché de la location immobilière au Togo en créant un écosystème de confiance entre propriétaires et locataires.",
+  "description": "Backend for Based app",
   "main": "index.js",
   "scripts": {
     "test": "vitest",
@@ -13,7 +13,7 @@
     "dev:watch": "nodemon"
   },
   "keywords": [],
-  "author": "",
+  "author": "Joseph ESSEY",
   "license": "ISC",
   "dependencies": {
     "@types/nodemailer": "^7.0.2",
